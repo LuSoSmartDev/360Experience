@@ -6,10 +6,6 @@
 <p align="center">This app
 will allow people to sign up and upload 360 content, as well as browse Featured and Community Uploaded Content</p>
 
-Note
-=======
-
-> You can also get the app on play store https://play.google.com/store/apps/details?id=com.recraftreactnativebaseapp
 
 IOS Demo
 =======
