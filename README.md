@@ -1,7 +1,7 @@
 # 360Experience
 [<p align="center"><img width="150" src="./images/recraftshoping-app.png"></p>](https://github.com/recraftrelic/recraft-react-native-shopping-app/)
 
-<h1 align="center">Recraft React Native Shopping App</h1>
+<h1 align="center">Recraft React Native Social Media Content App</h1>
 
 <p align="center">This app
 will allow people to sign up and upload 360 content, as well as browse Featured and Community Uploaded Content</p>
